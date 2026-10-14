@@ -3,7 +3,7 @@
 **Solution Architect · AI & ML Researcher**
 Hyderabad, India
 
-19+ years architecting enterprise data warehouses and lakehouses (Teradata, Snowflake, AWS) across finance, telecom, insurance, retail and CPG. Now a Research Assistant at IIIT Hyderabad, building agentic and NLP systems — most recently a Text-to-SQL interface for enterprise databases and a multi-agent BI copilot.
+Architecting enterprise data warehouses and lakehouses across finance, telecom, insurance, retail and CPG using Teradata, Snowflake and AWS. Now a Research Assistant at IIIT Hyderabad, building agentic and NLP systems — most recently, a Text-to-SQL interface for enterprise databases and a multi-agent BI copilot.
 
 **Portfolio:** [ranjankndev.github.io](https://ranjankndev.github.io) · **Resume:** [download](https://ranjankndev.github.io/assets/resume.pdf) · **LinkedIn:** [ranjankn](https://linkedin.com/in/ranjankn)
 
